@@ -1,4 +1,7 @@
-My coding journey pt.2
++++
+title = "My Coding journey pt.2"
+date = "2022-05-29"
++++
 
 After feeling confident that I knew the SQL commands and could demonstrate them well on W3schools, I moved on to rust. By the way, rust coders being called “rustaceans” brings me so much joy – cute little crab mascot. So far, it has not been super easy for me to remember all the rust commands because there are so many of them. I have kind of a silly fail story for when I first started out. The first project for the rust book is to print “Hello world!”, and I was trying to be silly and said, well why do I have to be mainstream and do what it says? I’m gonna make it say something else! So I had it say something else that made me giggle, but I had realized I accidentally named everything that. The directory was suddenly renamed to those words, and all of my projects were named those words, and I started freaking out wondering what I did wrong yet laughing at the fact that my computer was suddenly saying a very silly thing to me everywhere. Turns out I did not realize I needed a text editor like Emacs to get certain things to work properly and move files around and name them properly, so I was just typing commands directly into a terminal that was just doing what it was told, so things failed horribly but also in my opinion wonderfully as I learned a lot from it. 
 
