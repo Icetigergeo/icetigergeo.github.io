@@ -1,4 +1,7 @@
-Coding journey pt.5
++++
+title = "My Coding Journey pt.5"
+date = "2022-05-29"
++++
 
 
  I have another silly story of my learning process. Once I started on the guessing game, I realized hey maybe I can be brave and rework it to say something cute and have my boyfriend guess the numbers for a secret message if he gets it right. The idea was that it would prompt “Guess a number for a secret message!” and if it was too low a guess it would be like “nope! too small” and too big would be “nice try! you were close, but your guess was too big.” The celebration for guessing the number correctly would be “I love you, boyfriend’s name!” but oh goodness I kind of got over my head trying to move things around. I had the brackets issue where I didn’t have enough brackets in the right places, and I worked for hours to try to fix it. I reluctantly had to ask for help and said “DON’T READ IT! but also.. please read it to see what I did wrong.” He pointed out the bracket issue, and I eventually had to reset the code to the original guessing game and edit it a bit less so the “too small” and “too big” messages stayed the standard, but I was able to get the prompt and the congratulations message correct! I think he thought the attempt was cute, but it was so embarrassing to ask for help to fix a surprise for the person you’re asking help from, like a little walk of shame. In the end, it taught me a lot about being mindful of those pesky brackets.
