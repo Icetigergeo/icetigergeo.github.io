@@ -27,13 +27,10 @@ last_page = "Last Page"
 
 [extra.social]
 github = "Icetigergeo"
-twitter = "w"
-facebook = ""
-instagram = "r"
-dribbble = "t"
-weibo = "y"
+twitter = "icetigergeo"
+instagram = "geosartshop"
 linkedin = "geo-bean-62b57b239"
-flickr = ""
+
 
 [extra.show]
 tags = false
