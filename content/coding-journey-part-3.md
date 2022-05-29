@@ -1,4 +1,7 @@
-Coding journey pt3.
++++
+title = "My Coding Journey pt.3"
+date = "2022-05-29"
++++
 
 
 After working in rust (I’m still learning and by no means an expert quite yet, but I’m working towards it!), I was directed to take a look at how Tokio works along with some other server nuances that if I didn’t know about it could really mess up my code. This was the most difficult thing for my brain to comprehend and focus on for some reason. It’s the situation where you are reading a book but you find yourself reading a full page and thinking, “huh.. I didn’t comprehend any of that; let me read it again” and being stuck in that loop. I had to take lots of breaks to go work on something else and learn little by little of Tokio, but I see that things like Tokio are how apps like Doordash work, so it’s stuff that I need to know.
