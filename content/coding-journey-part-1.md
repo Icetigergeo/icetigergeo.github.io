@@ -1,4 +1,8 @@
-My Coding Learning Journey pt.1
++++
+title = "My Coding Journey pt.1"
+date = "2022-05-29"
++++
+
 
 Over the course of the past three to six months, I have learned a lot about coding and tech that I never could have dreamed I’d ever learn. I began my coding journey with kind of a rough start, as I have always been more of the creative work-with-my-hands type of person with painting and working with clay, so getting into the right mindset for coding and combatting my pre-existing code blindness has been quite the frustrating adjustment. I know it will be worth the brain calibration once I’m able to use it!
 
