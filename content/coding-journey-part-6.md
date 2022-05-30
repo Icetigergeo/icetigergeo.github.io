@@ -1,4 +1,7 @@
-My coding journey pt.6
++++
+title = "My Coding Journey pt.6"
+date = "2022-05-29"
++++
 
 Learning Rust coding language:
 
