@@ -1,3 +1,8 @@
++++
+title = "How-I-post-to-my-blog"
+date = "2022-06-03"
++++
+
 
 I wanted to type out the steps I take each time I post a blog post to my website both for me to revisit and anyone else reading this who may need it.
 I made my website through Zola so if you are unfamilliar with zola please take a look at this site (www.getzola.org).
